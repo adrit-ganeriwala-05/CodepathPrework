@@ -1,29 +1,40 @@
-# Prework - *Color Changer*
+# Prework - **ColorChanger**
 
 Submitted by: **Adrit Ganeriwala**
 
-**Color Changer** is an app that... [TODO] 
+**ColorChanger** is an app that displays your name, university, and aspiration, and lets the user tap a button to change the background color to a random one.
 
-Time spent: **0.5** hours spent in total
+Time spent: **2 hours** spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
+- [x] Users see a screen with three labels and a button  
+- [x] Tapping the button changes the screen color to a random color  
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+## 📹 Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+> Replace this link with your own Loom or YouTube walkthrough
+
+[Watch Video Walkthrough](https://www.loom.com/share/your-loom-video-link)
 
 ## App Brainstorming (Step 4)
 
+Possible future ideas for this app:
+- Allow the user to tap the labels to also change their colors individually.
+- Add an image or animation that changes along with the background.
+- Display the hex/RGB values of the color on screen.
+- Change text color dynamically for contrast with background.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered:
+- Assistant Editor not loading initially ("No Assistant Results").
+- Storyboard button connection needed to be re-established to avoid crash.
+- Ensuring `@IBAction` was connected properly and not broken from the storyboard.
+
+
 
 ## License
 
